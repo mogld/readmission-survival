@@ -1,0 +1,2 @@
+model,n,events,concordance,concordance_se,loglik_start,loglik_final,LR_chisq,LR_df,LR_p,Wald_chisq,Wald_df,Wald_p,Score_chisq,Score_df,Score_p,AIC,BIC
+cox_main_LOS_raw_3y_censor,55,13,0.831,0.053,-50.203,-39.529,21.349,4,2.7e-4,17.35,4,0.00166,21.836,4,2.16e-4,87.058,95.087
